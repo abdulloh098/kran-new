@@ -1,0 +1,18 @@
+.text{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    align-items: center;
+    padding: 15px;
+}
+
+.tatil_text {
+    width: 100%;
+    height: 60px;
+}
+
+.inp_posk input{
+    width: 270px;
+    height: 30px;
+
+}
